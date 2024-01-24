@@ -1,4 +1,4 @@
-# KARAVEL WEBSITE
+# ZARPAR SYSTEM
 
 ## Configurações do banco de dados Mongo:
 - Acessar arquivo: backend/Dockerfile
